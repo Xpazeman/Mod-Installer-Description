@@ -1,0 +1,26 @@
+{
+	"name": "Xpazeman Collection",
+	"description": "Mods for TheLongDark by Xpazeman",
+	"url": "https://github.com/xpazeman",
+	"releases": [
+		{
+			"name": "AmbientLights",
+			"version": "v0.9",
+			"releaseDate": "2018-09-12",
+			"description": "Ambient Lights is a mod intended to make interiors in the game brighter and more reflective of what's going on outside.",
+			"url": "https://github.com/Xpazeman/tld-ambient-lights",
+			"changes": "Added controls for Aurora powered lights.",
+			"dependencies": [
+				{
+					"name": "ModSettings",
+					"version": "^v1.1"
+				}
+			],
+			"assets": [
+				{
+					"url": "https://github.com/Xpazeman/tld-ambient-lights/releases/download/v0.9-beta/Ambient_Lights_v0.9.zip"
+				}
+			]
+		}
+	]
+}
