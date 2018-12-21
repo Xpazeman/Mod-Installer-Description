@@ -5,20 +5,20 @@
 	"releases": [
 		{
 			"name": "AmbientLights",
-			"version": "v0.9.6",
-			"releaseDate": "2018-09-24",
+			"version": "v0.9.7",
+			"releaseDate": "2018-12-21",
 			"description": "Ambient Lights is a mod intended to make interiors in the game brighter and more reflective of what's going on outside.",
 			"url": "https://github.com/Xpazeman/tld-ambient-lights",
-			"changes": "Fixed an error with weather not selecting correctly.",
+			"changes": "Updated to work on TLD 1.42, also adjusted daytime brightness of lights to compensate for changes made to the interior lighting.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.1"
+					"version": "^v1.4"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-ambient-lights/releases/download/v0.9.6-beta/Ambient_Lights_v0.9.6.zip"
+					"url": "https://github.com/Xpazeman/tld-ambient-lights/releases/download/v0.9.7-beta/AmbientLights_v0.9.7.zip"
 				}
 			]
 		},
