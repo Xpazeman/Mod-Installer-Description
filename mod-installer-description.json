@@ -62,11 +62,11 @@
 		},
 		{
 			"name": "WeightTweaks",
-			"version": "v1.0",
-			"releaseDate": "2018-12-27",
+			"version": "v1.1",
+			"releaseDate": "2019-01-12",
 			"description": "Mod for The Long Dark to modify item weights and carry capacity.",
 			"url": "https://github.com/Xpazeman/tld-weight-tweaks",
-			"changes": "Initial Release",
+			"changes": "Removed leftover Debug.Log",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -75,7 +75,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-weight-tweaks/releases/download/v1.0/WeightTweaks_v1.0.zip"
+					"url": "https://github.com/Xpazeman/tld-weight-tweaks/releases/download/v1.1/WeightTweaks_v1.1.zip"
 				}
 			]
 		}
