@@ -24,58 +24,58 @@
 		},
 		{
 			"name": "GearDecayModifier",
-			"version": "v1.2",
-			"releaseDate": "2018-12-21",
+			"version": "v1.3",
+			"releaseDate": "2019-02-15",
 			"description": "Mod for The Long Dark to modify decay rates of gear.",
 			"url": "https://github.com/Xpazeman/tld-gear-decay-modifier",
-			"changes": "Updated to work with The Long Dark v1.42",
+			"changes": "Removed options for stored items decay due to a bug",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.4"
+					"version": "^v1.5"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/download/v1.2/GearDecayModifier_v1.2.zip"
+					"url": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/download/v1.3/GearDecayModifier_v1.3.zip"
 				}
 			]
 		},
 		{
 			"name": "KeroseneLampTweaks",
-			"version": "v1.2",
-			"releaseDate": "2018-12-21",
+			"version": "v1.3",
+			"releaseDate": "2019-02-15",
 			"description": "Mod for The Long Dark that tweak kerosene lamps consumption.",
 			"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks",
-			"changes": "Updated to work with The Long Dark v1.42",
+			"changes": "Added options to change color and set the range of the lamp's light",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.4"
+					"version": "^v1.5"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/download/v1.2/KeroseneLampTweaks_v1.2.zip"
+					"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/download/v1.3/KeroseneLampTweaks_v1.3.zip"
 				}
 			]
 		},
 		{
 			"name": "WeightTweaks",
-			"version": "v1.1",
-			"releaseDate": "2019-01-12",
+			"version": "v1.2",
+			"releaseDate": "2019-02-15",
 			"description": "Mod for The Long Dark to modify item weights and carry capacity.",
 			"url": "https://github.com/Xpazeman/tld-weight-tweaks",
-			"changes": "Removed leftover Debug.Log",
+			"changes": "Fixed default value for Worn Clothing Modifier",
 			"dependencies": [
 				{
 					"name": "ModSettings",
-					"version": "^v1.4"
+					"version": "^v1.5"
 				}
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-weight-tweaks/releases/download/v1.1/WeightTweaks_v1.1.zip"
+					"url": "https://github.com/Xpazeman/tld-weight-tweaks/releases/download/v1.2/WeightTweaks_v1.2.zip"
 				}
 			]
 		}
