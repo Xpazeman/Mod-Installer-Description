@@ -62,11 +62,11 @@
 		},
 		{
 			"name": "KeroseneLampTweaks",
-			"version": "v1.3",
-			"releaseDate": "2019-02-15",
+			"version": "v1.4",
+			"releaseDate": "2019-05-13",
 			"description": "Mod for The Long Dark that tweak kerosene lamps consumption.",
 			"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks",
-			"changes": "Added options to change color and set the range of the lamp's light",
+			"changes": "Added RGB controls to lamp color",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -75,7 +75,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/download/v1.3/KeroseneLampTweaks_v1.3.zip"
+					"url": "https://github.com/Xpazeman/tld-kerosene-lamp-tweaks/releases/download/v1.4/KeroseneLampTweaks_v1.4.zip"
 				}
 			]
 		},
