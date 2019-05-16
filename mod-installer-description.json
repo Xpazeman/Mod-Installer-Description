@@ -5,11 +5,11 @@
 	"releases": [
 		{
 			"name": "AmbientLights",
-			"version": "v1.0.2",
-			"releaseDate": "2019-05-13",
+			"version": "v1.0.3",
+			"releaseDate": "2019-05-16",
 			"description": "Ambient Lights is a mod intended to make interiors in the game brighter and more reflective of what's going on outside.",
 			"url": "https://github.com/Xpazeman/tld-ambient-lights",
-			"changes": "Fixed issue that was throwing errors on some locations.",
+			"changes": "Fixed crash when entering Milton's church.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -18,7 +18,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-ambient-lights/releases/download/v1.0/AmbientLights_v1.0.2.zip"
+					"url": "https://github.com/Xpazeman/tld-ambient-lights/releases/download/v1.0.3/AmbientLights_v1.0.3.zip"
 				}
 			]
 		},
@@ -42,12 +42,25 @@
 			]
 		},
 		{
-			"name": "HouseLights",
+			"name": "PlacingAnywhere",
 			"version": "v1.0",
-			"releaseDate": "2019-05-12",
+			"releaseDate": "2019-05-16",
+			"description": "This mod lifts placement restrictions and adds control for fine positioning and rotation.",
+			"url": "https://github.com/Xpazeman/tld-house-lights",
+			"changes": "Initial release.",
+			"assets": [
+				{
+					"url": "https://github.com/Xpazeman/tld-placing-anywhere/releases/download/v1.0/PlacingAnywhere.dll"
+				}
+			]
+		},
+		{
+			"name": "HouseLights",
+			"version": "v1.2",
+			"releaseDate": "2019-05-16",
 			"description": "Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches. ",
 			"url": "https://github.com/Xpazeman/tld-house-lights",
-			"changes": "Initial Release.",
+			"changes": "Fixed aurora behaviour and added option to turn off light flicker during auroras.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -56,7 +69,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-house-lights/releases/download/v1.0/HouseLights_v1.0.0.zip"
+					"url": "https://github.com/Xpazeman/tld-house-lights/releases/download/v1.2/HouseLights_v1.2.zip"
 				}
 			]
 		},
