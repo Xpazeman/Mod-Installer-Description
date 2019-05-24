@@ -24,11 +24,11 @@
 		},
 		{
 			"name": "GearDecayModifier",
-			"version": "v1.3",
-			"releaseDate": "2019-02-15",
+			"version": "v1.4",
+			"releaseDate": "2019-05-24",
 			"description": "Mod for The Long Dark to modify decay rates of gear.",
 			"url": "https://github.com/Xpazeman/tld-gear-decay-modifier",
-			"changes": "Removed options for stored items decay due to a bug",
+			"changes": "Added multiple categories of items. Added general/advanced controls for granular decay control.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -37,7 +37,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/download/v1.3/GearDecayModifier_v1.3.zip"
+					"url": "https://github.com/Xpazeman/tld-gear-decay-modifier/releases/download/v1.4/GearDecayModifier_v1.4.zip"
 				}
 			]
 		},
