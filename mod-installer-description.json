@@ -22,28 +22,7 @@
 				}
 			]
 		},
-		{
-			"name": "RemoveClutter",
-			"version": "v1.0",
-			"releaseDate": "2019-06-07",
-			"description": "Mod that allows you to remove most of the clutter in The Long Dark scenes.",
-			"url": "https://github.com/Xpazeman/tld-remove-clutter",
-			"changes": "Initial release. Check README for info & tutorials.",
-			"dependencies": [
-				{
-					"name": "ModSettings",
-					"version": "^v1.5"
-				},{
-					"name": "ModComponent",
-					"version": "^v3.2.1"
-				}
-			],
-			"assets": [
-				{
-					"url": "https://github.com/Xpazeman/tld-remove-clutter/releases/download/v1.0/RemoveClutterv1.0.zip"
-				}
-			]
-		},
+		
 		{
 			"name": "GearDecayModifier",
 			"version": "v1.4",
