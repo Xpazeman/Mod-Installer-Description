@@ -24,11 +24,11 @@
 		},
 		{
 			"name": "RemoveClutter",
-			"version": "v1.0.1",
-			"releaseDate": "2019-06-08",
+			"version": "v1.0.2",
+			"releaseDate": "2019-06-11",
 			"description": "Mod that allows you to remove most of the clutter in The Long Dark scenes.",
 			"url": "https://github.com/Xpazeman/tld-remove-clutter",
-			"changes": "Initial release. Check README for info & tutorials. Fixed major issue with status saving.",
+			"changes": "Fixed conflict with Home-Improvement when breaking down items in scenes where containers have been repaired.",
 			"dependencies": [
 				{
 					"name": "ModSettings",
@@ -40,7 +40,7 @@
 			],
 			"assets": [
 				{
-					"url": "https://github.com/Xpazeman/tld-remove-clutter/releases/download/v1.0.1/RemoveClutter_v1.0.1.zip"
+					"url": "https://github.com/Xpazeman/tld-remove-clutter/releases/download/v1.0.2/RemoveClutter_v1.0.2.zip"
 				}
 			]
 		},
